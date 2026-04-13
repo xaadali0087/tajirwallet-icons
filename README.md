@@ -1,6 +1,6 @@
 # `tajirwallet-icons`
 
-**[⭐️ View demo](https://metamask.github.io/jazzicon/)**
+**[⭐️ View demo](https://github.com/xaadali0087/tajirwallet-icons/)**
 
 Say goodbye to boring, blocky identicons that look like they came out of the '70s and replace them with jazzy, colorful collages that more likely came out of the '80s!
 
