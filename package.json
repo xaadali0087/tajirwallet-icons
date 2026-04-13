@@ -1,5 +1,5 @@
 {
-  "name": "@metamask/jazzicon",
+  "name": "tajirwallet-icons",
   "version": "2.0.0",
   "description": "Jazzy deterministic identicons for a more entertaining future",
   "main": "index.js",
@@ -25,16 +25,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MetaMask/jazzicon.git"
+    "url": "git+https://github.com/xaadali0087/tajirwallet-icons.git"
   },
   "keywords": [
     "identicon",
     "jazz"
   ],
   "bugs": {
-    "url": "https://github.com/MetaMask/jazzicon/issues"
+    "url": "https://github.com/xaadali0087/tajirwallet-icons/issues"
   },
-  "homepage": "https://github.com/MetaMask/jazzicon#readme",
+  "homepage": "https://github.com/xaadali0087/tajirwallet-icons#readme",
   "engines": {
     "node": "^18.16 || >=20"
   }

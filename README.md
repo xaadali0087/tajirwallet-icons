@@ -1,4 +1,4 @@
-# `@metamask/jazzicon`
+# `tajirwallet-icons`
 
 **[⭐️ View demo](https://metamask.github.io/jazzicon/)**
 
@@ -8,7 +8,7 @@ Say goodbye to boring, blocky identicons that look like they came out of the '70
 
 ## Installation
 
-`npm install @metamask/jazzicon`
+`npm install tajirwallet-icons`
 
 ## Usage
 
@@ -20,7 +20,7 @@ This library exports a single function which:
 For example:
 
 ```javascript
-const jazzicon = require('@metamask/jazzicon');
+const jazzicon = require('tajirwallet-icons');
 
 // Generate 60 icons
 for (let i = 0; i < 60; i++) {
