@@ -1,7 +1,7 @@
 {
   "name": "tajirwallet-icons",
-  "version": "2.0.0",
-  "description": "Jazzy deterministic identicons for a more entertaining future",
+  "version": "2.0.1",
+  "description": "Tajir Wallet Icons deterministic identicons for a more entertaining future",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -29,7 +29,7 @@
   },
   "keywords": [
     "identicon",
-    "jazz"
+    "tajirwallet-icons"
   ],
   "bugs": {
     "url": "https://github.com/xaadali0087/tajirwallet-icons/issues"
